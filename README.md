@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Beatriz%20Modesto&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedora%20FullStack&descAlignY=58&descSize=20" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Apaixonada+por+Back-end+e+L%C3%B3gica;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80" alt="typing animation" />
 
 <br/>
 
